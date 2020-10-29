@@ -4,3 +4,5 @@
 
 __author__      = "derman232"
 __copyright__   = "Copyright 2020, Planet Earth"
+
+print("Hello world start of cool things!")
